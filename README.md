@@ -2012,7 +2012,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 - [krane](https://github.com/appvia/krane) — Krane is a simple Kubernetes RBAC static analysis tool.
 It identifies potential security risks in K8s RBAC design and makes suggestions on how to mitigate them. Krane dashboard presents current RBAC security posture and lets you navigate through its definition.
 
-- [kube-hunter](https://aquasecurity.github.io/kube-hunter/) — Hunt for security weaknesses in Kubernetes clusters.
+- **kube-hunter** :warning: — Hunt for security weaknesses in Kubernetes clusters.
 
 - [kube-lint](https://github.com/viglesiasce/kube-lint) — A linter for Kubernetes resources with a customizable rule set. You define a list of rules that you would like to validate against your  resources and kube-lint will evaluate those rules against them.
 
@@ -2257,7 +2257,7 @@ Kani verifies:
 
 - [kics](https://kics.io/) — Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
 
-- [kube-hunter](https://aquasecurity.github.io/kube-hunter/) — Hunt for security weaknesses in Kubernetes clusters.
+- **kube-hunter** :warning: — Hunt for security weaknesses in Kubernetes clusters.
 
 - [lockfile-lint](https://github.com/lirantal/lockfile-lint) — Lint an npm or yarn lockfile to analyze and detect security issues
 

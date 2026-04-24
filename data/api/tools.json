@@ -11001,7 +11001,7 @@
     "plans": null,
     "description": "Hunt for security weaknesses in Kubernetes clusters.",
     "discussion": null,
-    "deprecated": null,
+    "deprecated": true,
     "resources": null,
     "reviews": null,
     "demos": null,
